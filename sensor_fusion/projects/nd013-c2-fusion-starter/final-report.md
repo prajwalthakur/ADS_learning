@@ -1,10 +1,10 @@
 # Final Report
 # Sensor Fusion and object Trakcing
 
-1: Implement an extended Kalman filter.
-2: Implement track management including track state and track score, track initialization and deletion.
-3: Implement single nearest neighbour data association and gating.
-4: Apply sensor fusion by implementing the nonlinear camera measurement model and a sensor visibility check.
+- Implement an extended Kalman filter.
+- Implement track management including track state and track score, track initialization and deletion.
+- Implement single nearest neighbour data association and gating.
+- Apply sensor fusion by implementing the nonlinear camera measurement model and a sensor visibility check.
 
 # Section 1 : EKF implementation
 ![alt text](images/ekf_impl.png)
