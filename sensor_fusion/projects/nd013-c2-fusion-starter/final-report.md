@@ -10,9 +10,9 @@
 ![alt text](images/ekf_impl.png)
 
 # section 2 : Track Management 
--> Track initialization from unassigned measurements is implemented.
--> A track score is defined and implemented.
--> Track states are defined and implemented, e.g. “tentative”, “confirmed”. Old tracks are deleted for not updated tracks.
+- Track initialization from unassigned measurements is implemented.
+- A track score is defined and implemented.
+- Track states are defined and implemented, e.g. “tentative”, “confirmed”. Old tracks are deleted for not updated tracks.
 RMSE plot:
 ![alt text](images/track_mg.png)
 

@@ -40,10 +40,10 @@ Frame #175
 
 General Features Observed:
 
-->Wheels: Circular shapes at the bottom, crucial for vehicle identification in point clouds.
-->Rounded Front & Rear Ends: Contours of the hood, bumper, and trunk vary by model and LiDAR resolution.
-->Body Shape & Size: Roofline, doors, and windows help distinguish vehicle types (sedan, SUV, etc.).
-->Spacing & Alignment: Wheel distance indicates vehicle size and category.
+- Wheels: Circular shapes at the bottom, crucial for vehicle identification in point clouds.
+- Rounded Front & Rear Ends: Contours of the hood, bumper, and trunk vary by model and LiDAR resolution.
+- Body Shape & Size: Roofline, doors, and windows help distinguish vehicle types (sedan, SUV, etc.).
+- Spacing & Alignment: Wheel distance indicates vehicle size and category.
 
 
 
